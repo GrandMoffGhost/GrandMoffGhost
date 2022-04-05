@@ -1,0 +1,2 @@
+- 👋 I’m @GrandMoffGhost
+- 🌱 I’m currently learning PYTHON
